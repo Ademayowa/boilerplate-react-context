@@ -2,6 +2,8 @@
 
 ## How to run the boilerplate
 
-cd into boilerplate
-npm install
-npm start
+# cd into boilerplate
+
+# npm install
+
+# npm start
