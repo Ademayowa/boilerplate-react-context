@@ -1,9 +1,13 @@
 # Boilerplate for react context-API
 
-## How to run the boilerplate
+> Boilerplate-react context
 
-### cd into boilerplate
+## Quick Start
 
-### npm install
+```bash
+# Install client dependencies
 
-### npm start
+cd boilerplate
+npm install
+npm start
+```
